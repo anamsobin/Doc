@@ -3,61 +3,73 @@
         {
             "end": "2019-09-30",
             "name": "Muharram",
+            "bn_name": "মহররম",
             "start": "2019-09-01"
         },
         {
             "end": "2019-10-29",
             "name": "Safar",
+            "bn_name": "সফর",
             "start": "2019-10-01"
         },
         {
             "end": "2019-11-28",
             "name": "Rabi Al Awwal",
+            "bn_name": "রবিউল আউয়াল ",
             "start": "2019-10-30"
         },
         {
             "end": "2019-12-28",
             "name": "Rabi Ath-Thani",
+            "bn_name": "রবিউস সানি",
             "start": "2019-11-29"
         },
         {
             "end": "2020-01-26",
             "name": "Jumada Al Ula",
+            "bn_name": "জমাদিউল আউয়াল",
             "start": "2019-12-29"
         },
         {
             "end": "2020-02-25",
             "name": "Jumada Al Akhirah",
+            "bn_name": "জমাদিউস সানি",
             "start": "2020-01-27"
         },
         {
             "end": "2020-03-26",
             "name": "Rajab",
+            "bn_name": "রজব",
             "start": "2020-02-26"
         },
         {
             "end": "2020-04-24",
             "name": "Sha'ban",
+            "bn_name": "শা‘বান",
             "start": "2020-03-27"
         },
         {
             "end": "2020-05-24",
             "name": "Ramadan",
+            "bn_name": "রমজান",
             "start": "2020-04-25"
         },
         {
             "end": "2020-06-24",
             "name": "Shawwal",
+            "bn_name": "শাওয়াল",
             "start": "2020-05-25"
         },
         {
             "end": "2019-08-02",
             "name": "Dhu l-Kada ",
+            "bn_name": "জ্বিলকদ ",
             "start": "2019-07-05"
         },
         {
             "end": "2019-08-31",
             "name": "Dhu Al Hijjah",
+            "bn_name": "জ্বিলহজ্জ",
             "start": "2019-08-03"
         }
     ],
