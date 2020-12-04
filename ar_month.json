@@ -4,73 +4,85 @@
             "end": "2020-09-18",
             "name": "Muharram",
             "bn_name": "মহররম",
-            "start": "2020-08-21"
+            "start": "2020-08-21",
+            "hijri_year": "1442"
         },
         {
             "end": "2020-10-18",
             "name": "Safar",
             "bn_name": "সফর",
-            "start": "2020-09-19"
+            "start": "2020-09-19",
+            "hijri_year": "1442"
         },
         {
             "end": "2020-11-16",
             "name": "Rabi Al Awwal",
             "bn_name": "রবিউল আউয়াল ",
-            "start": "2020-10-19"
+            "start": "2020-10-19",
+            "hijri_year": "1442"
         },
         {
             "end": "2020-12-16",
             "name": "Rabi Ath-Thani",
             "bn_name": "রবিউস সানি",
-            "start": "2020-11-17"
+            "start": "2020-11-17",
+            "hijri_year": "1442"
         },
         {
             "end": "2020-01-26",
             "name": "Jumada Al Ula",
             "bn_name": "জমাদিউল আউয়াল",
-            "start": "2019-12-29"
+            "start": "2019-12-29",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-02-25",
             "name": "Jumada Al Akhirah",
             "bn_name": "জমাদিউস সানি",
-            "start": "2020-01-27"
+            "start": "2020-01-27",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-03-26",
             "name": "Rajab",
             "bn_name": "রজব",
-            "start": "2020-02-26"
+            "start": "2020-02-26",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-04-24",
             "name": "Sha'ban",
             "bn_name": "শা‘বান",
-            "start": "2020-03-27"
+            "start": "2020-03-27",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-05-24",
             "name": "Ramadan",
             "bn_name": "রমজান",
-            "start": "2020-04-25"
+            "start": "2020-04-25",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-06-22",
             "name": "Shawwal",
             "bn_name": "শাওয়াল",
-            "start": "2020-05-25"
+            "start": "2020-05-25",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-07-22",
             "name": "Dhu l-Kada ",
             "bn_name": "জ্বিলকদ ",
-            "start": "2020-06-23"
+            "start": "2020-06-23",
+            "hijri_year": "1441"
         },
         {
             "end": "2020-08-20",
             "name": "Dhu Al Hijjah",
             "bn_name": "জ্বিলহজ্জ",
-            "start": "2020-07-23"
+            "start": "2020-07-23",
+            "hijri_year": "1441"
         }
     ],
     "year": "1441"
