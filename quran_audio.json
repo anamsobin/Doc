@@ -1,5 +1,5 @@
-  
-[
+{
+    "audio":[
     {
         "name": "আদেল রাইয়ান",
         "server": "http://server8.mp3quran.net/ryan/"
@@ -84,4 +84,4 @@
         "name": "সা‘দ আল-গামেদী",
         "server": "http://server7.mp3quran.net/s_gmd/"
     }
-]
+]}
