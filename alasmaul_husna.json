@@ -1,0 +1,406 @@
+{
+  "code":200,
+  "status":"OK",
+  "data":[
+    {
+      "name":"\u0627\u0644\u0631\u064e\u0651\u062d\u0652\u0645\u064e\u0646\u064f",
+      "transliteration":"Ar Rahmaan",
+      "number":1,
+      "en":{
+        "meaning":"The Beneficent"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064e\u0644\u0650\u0643\u064f",
+      "transliteration":"Al Malik",
+      "number":3,
+      "en":{
+        "meaning":"The King \/ Eternal Lord"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0633\u064e\u0651\u0644\u0627\u064e\u0645\u064f",
+      "transliteration":"As Salaam",
+      "number":5,
+      "en":{
+        "meaning":"The Source of Peace"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u0647\u064e\u064a\u0652\u0645\u0650\u0646\u064f",
+      "transliteration":"Al Muhaymin",
+      "number":7,
+      "en":{
+        "meaning":"The Guardian"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062c\u064e\u0628\u064e\u0651\u0627\u0631\u064f",
+      "transliteration":"Al Jabbaar",
+      "number":9,
+      "en":{
+        "meaning":"The Compeller"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062e\u064e\u0627\u0644\u0650\u0642\u064f",
+      "transliteration":"Al Khaaliq",
+      "number":11,
+      "en":{
+        "meaning":"The Creator"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u0635\u064e\u0648\u0650\u0651\u0631\u064f",
+      "transliteration":"Al Musawwir",
+      "number":13,
+      "en":{
+        "meaning":"The Shaper of Beauty"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0642\u064e\u0647\u064e\u0651\u0627\u0631\u064f",
+      "transliteration":"Al Qahhaar",
+      "number":15,
+      "en":{
+        "meaning":"The Subduer"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0631\u064e\u0651\u0632\u064e\u0651\u0627\u0642\u064f",
+      "transliteration":"Ar Razzaaq",
+      "number":17,
+      "en":{
+        "meaning":"The Sustainer"
+      }
+    },
+    {
+      "name":"\u0627\u064e\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064f",
+      "transliteration":"Al 'Aleem",
+      "number":19,
+      "en":{
+        "meaning":"The Knower of all"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0633\u0650\u0637\u064f",
+      "transliteration":"Al Baasit",
+      "number":21,
+      "en":{
+        "meaning":"The Reliever"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0631\u064e\u0651\u0627\u0641\u0650\u0639\u064f",
+      "transliteration":"Ar Raafi'",
+      "number":23,
+      "en":{
+        "meaning":"The Exalter"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0645\u064f\u0630\u0650\u0644\u064f\u0651",
+      "transliteration":"Al Mudhil",
+      "number":25,
+      "en":{
+        "meaning":"The Humiliator"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0628\u064e\u0635\u0650\u064a\u0631\u064f",
+      "transliteration":"Al Baseer",
+      "number":27,
+      "en":{
+        "meaning":"The Seer of all"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u064f",
+      "transliteration":"Al 'Adl",
+      "number":29,
+      "en":{
+        "meaning":"The Just"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062e\u064e\u0628\u0650\u064a\u0631\u064f",
+      "transliteration":"Al Khabeer",
+      "number":31,
+      "en":{
+        "meaning":"The All Aware"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0639\u064e\u0638\u0650\u064a\u0645\u064f",
+      "transliteration":"Al 'Azeem",
+      "number":33,
+      "en":{
+        "meaning":"The Maginificent"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0634\u064e\u0651\u0643\u064f\u0648\u0631\u064f",
+      "transliteration":"Ash Shakoor",
+      "number":35,
+      "en":{
+        "meaning":"The Rewarder of Thankfulness"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0643\u064e\u0628\u0650\u064a\u0631\u064f",
+      "transliteration":"Al Kabeer",
+      "number":37,
+      "en":{
+        "meaning":"The Greatest"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0645\u064f\u0642\u064a\u0650\u062a",
+      "transliteration":"Al Muqeet",
+      "number":39,
+      "en":{
+        "meaning":"The Nourisher"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062c\u064e\u0644\u0650\u064a\u0644\u064f",
+      "transliteration":"Al Jaleel",
+      "number":41,
+      "en":{
+        "meaning":"The Majestic"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0631\u064e\u0651\u0642\u0650\u064a\u0628\u064f",
+      "transliteration":"Ar Raqeeb",
+      "number":43,
+      "en":{
+        "meaning":"The Watchful One"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0633\u0650\u0639\u064f",
+      "transliteration":"Al Waasi'",
+      "number":45,
+      "en":{
+        "meaning":"The All Comprehending"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0648\u064e\u062f\u064f\u0648\u062f\u064f",
+      "transliteration":"Al Wudood",
+      "number":47,
+      "en":{
+        "meaning":"The Loving One"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0639\u0650\u062b\u064f",
+      "transliteration":"Al Baa'ith",
+      "number":49,
+      "en":{
+        "meaning":"The Resurrector"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651",
+      "transliteration":"Al Haqq",
+      "number":51,
+      "en":{
+        "meaning":"The Truth"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0642\u064e\u0648\u0650\u064a\u064f\u0651",
+      "transliteration":"Al Qawiyy",
+      "number":53,
+      "en":{
+        "meaning":"The Possessor of all strength"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0648\u064e\u0644\u0650\u064a\u064f\u0651",
+      "transliteration":"Al Waliyy",
+      "number":55,
+      "en":{
+        "meaning":"The Protector"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u062d\u0652\u0635\u0650\u064a",
+      "transliteration":"Al Muhsi",
+      "number":57,
+      "en":{
+        "meaning":"The Appraiser"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u0639\u0650\u064a\u062f\u064f",
+      "transliteration":"Al Mu'eed",
+      "number":59,
+      "en":{
+        "meaning":"The Restorer"
+      }
+    },
+    {
+      "name":"\u0627\u064e\u0644\u0652\u0645\u064f\u0645\u0650\u064a\u062a\u064f",
+      "transliteration":"Al Mumeet",
+      "number":61,
+      "en":{
+        "meaning":"The Taker of life"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0642\u064e\u064a\u064f\u0651\u0648\u0645\u064f",
+      "transliteration":"Al Qayyoom",
+      "number":63,
+      "en":{
+        "meaning":"The Self Existing"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064e\u0627\u062c\u0650\u062f\u064f",
+      "transliteration":"Al Maajid",
+      "number":65,
+      "en":{
+        "meaning":"The Glorious"
+      }
+    },
+    {
+      "name":"\u0627\u064e\u0644\u0627\u064e\u062d\u064e\u062f\u064f",
+      "transliteration":"Al Ahad",
+      "number":67,
+      "en":{
+        "meaning":"The One"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0642\u064e\u0627\u062f\u0650\u0631\u064f",
+      "transliteration":"Al Qaadir",
+      "number":69,
+      "en":{
+        "meaning":"The Powerful"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u0642\u064e\u062f\u0650\u0651\u0645\u064f",
+      "transliteration":"Al Muqaddim",
+      "number":71,
+      "en":{
+        "meaning":"The Expediter"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0623\u0648\u064e\u0651\u0644\u064f",
+      "transliteration":"Al Awwal",
+      "number":73,
+      "en":{
+        "meaning":"The First"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0638\u064e\u0651\u0627\u0647\u0650\u0631\u064f",
+      "transliteration":"Az Zaahir",
+      "number":75,
+      "en":{
+        "meaning":"The Manifest"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0644\u0650\u064a",
+      "transliteration":"Al Waali",
+      "number":77,
+      "en":{
+        "meaning":"The Governor"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0628\u064e\u0631\u064f\u0651",
+      "transliteration":"Al Barr",
+      "number":79,
+      "en":{
+        "meaning":"The Doer of Good"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u0646\u0652\u062a\u064e\u0642\u0650\u0645\u064f",
+      "transliteration":"Al Muntaqim",
+      "number":81,
+      "en":{
+        "meaning":"The Avenger"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0631\u064e\u0651\u0624\u064f\u0648\u0641\u064f",
+      "transliteration":"Ar Ra\u2019oof",
+      "number":83,
+      "en":{
+        "meaning":"The Clement"
+      }
+    },
+    {
+      "name":"\u0630\u064f\u0648\u0627\u0644\u0652\u062c\u064e\u0644\u0627\u064e\u0644\u0650 \u0648\u064e\u0627\u0644\u0625\u0643\u0652\u0631\u064e\u0627\u0645\u0650",
+      "transliteration":"Dhu Al Jalaali Wa Al Ikraam",
+      "number":85,
+      "en":{
+        "meaning":"Possessor of Majesty and Bounty"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u062c\u064e\u0627\u0645\u0650\u0639\u064f",
+      "transliteration":"Al Jaami'",
+      "number":87,
+      "en":{
+        "meaning":"The Gatherer"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0645\u064f\u063a\u0652\u0646\u0650\u064a",
+      "transliteration":"Al Mughi",
+      "number":89,
+      "en":{
+        "meaning":"The Enricher"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0636\u064e\u0651\u0627\u0631\u064e\u0651",
+      "transliteration":"Ad Daaarr",
+      "number":91,
+      "en":{
+        "meaning":"The Creator of the harmful"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0646\u064f\u0651\u0648\u0631\u064f",
+      "transliteration":"An Noor",
+      "number":93,
+      "en":{
+        "meaning":"The Light"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0628\u064e\u062f\u0650\u064a\u0639\u064f",
+      "transliteration":"Al Badi'",
+      "number":95,
+      "en":{
+        "meaning":"The Originator"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0631\u0650\u062b\u064f",
+      "transliteration":"Al Waarith",
+      "number":97,
+      "en":{
+        "meaning":"The Inhertior"
+      }
+    },
+    {
+      "name":"\u0627\u0644\u0635\u064e\u0651\u0628\u064f\u0648\u0631\u064f",
+      "transliteration":"As Saboor",
+      "number":99,
+      "en":{
+        "meaning":"The Patient One"
+      }
+    }
+  ]
+}
