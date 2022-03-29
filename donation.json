@@ -1,5 +1,5 @@
 {
-    "donation" : [
+    "donation" :
         {
     "info": {
         "contact_button_text": "অতি জরুরি প্রয়োজনে কল করুন",
@@ -70,5 +70,5 @@
         }
     ]
         }
-                ]
+
 }
